@@ -126,9 +126,7 @@
 
         <h2>About This Page</h2> 
 
-        <p>This is a performance task assigned by miss Jenina to me and I have to finish it before the deadline so that it wont have a deduction to it,this
-        webpage is to help you do you're research. some of the info might not be accurate or related to you're chosen topic. nonetheless, youre topic has to
-         be specific. </p>
+        <p>this webpage is to help you do you're research. some of the info might not be accurate or related to you're chosen topic. nonetheless, youre topic has to be specific so that the result of you're chosen topic is what will come out.</p>
 
         <h3>Features</h3> 
 
